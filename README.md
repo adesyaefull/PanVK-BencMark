@@ -5,6 +5,15 @@ and UI; it does not replace or modify the system Vulkan driver.
 
 ## What it tests
 
+<img width="1280" height="2772" alt="Screenshot_2026-10-17-17-20-21-237_dev panvk bench" src="https://github.com/user-attachments/assets/83b37b3f-c21e-4a54-b985-c811f0538e44" />
+<img width="1280" height="2772" alt="Screenshot_2026-10-17-17-20-13-230_dev panvk bench" src="https://github.com/user-attachments/assets/beaa6916-5d7c-45e3-a914-3a89d49966d0" />
+<img width="1280" height="2772" alt="Screenshot_2026-10-17-17-20-05-213_dev panvk bench" src="https://github.com/user-attachments/assets/19ac6cd7-f0d4-467f-bfa2-098e6189b288" />
+<img width="1280" height="2772" alt="Screenshot_2026-10-17-17-20-00-667_dev panvk bench" src="https://github.com/user-attachments/assets/43069456-385c-4412-a9ff-317c70e7f4e2" />
+<img width="1280" height="2772" alt="Screenshot_2026-10-17-17-19-57-575_dev panvk bench" src="https://github.com/user-attachments/assets/f7c8a8c5-f01a-49e6-83ac-57adbe153975" />
+<img width="1280" height="2772" alt="Screenshot_2026-10-17-17-19-53-252_dev panvk bench" src="https://github.com/user-attachments/assets/3e8c00df-5f29-498e-b2b7-23b5ba689765" />
+<img width="1280" height="2772" alt="Screenshot_2026-10-17-17-19-50-220_dev panvk bench" src="https://github.com/user-attachments/assets/9bf460fd-01da-4d02-bd94-fec744fc23bd" />
+<img width="1280" height="2772" alt="Screenshot_2026-10-17-17-19-47-012_dev panvk bench" src="https://github.com/user-attachments/assets/cf24501a-d06a-4966-a2a2-f7dc891da0b4" />
+
 - A continuously animated Vulkan preview rendered into a `TextureView`-backed
   Android Vulkan swapchain, including while the app is idle.
 - Selectable instanced cube, rotating triangle, and low-poly animated dolphin
